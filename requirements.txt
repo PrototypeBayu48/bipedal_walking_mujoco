@@ -1,0 +1,6 @@
+mujoco==3.4
+numpy==2.3.5
+pygame
+pynput
+usd-core
+Pillow

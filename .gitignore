@@ -1,4 +1,5 @@
 __pycache__/
 .vscode/
+mujoco_usdpkg/
 
 MUJOCO_LOG.TXT

@@ -1,7 +1,3 @@
-## Acknowledgements
-
-This project was originally built upon the capture point demonstration in [the5439workshop/Bipedal_walking_capture_point](https://github.com/the5439workshop/Bipedal_walking_capture_point). 
-
 ## How to Run
 
 To run the code, simply run one of the files called `capture_point_...` depending on what robot you want to test. I would recomend starting with the `capture_point_2d.py`. If you understand how the minimal 2d version works, the others are simply an extension of the same principles.
@@ -82,3 +78,7 @@ pinocchio 3.8.0
 pynput
 ```
 and if you want xbox controller, then you also will need `pygame`.
+
+## Acknowledgements
+
+This project originated as a hard fork of [the5439workshop/Bipedal_walking_capture_point](https://github.com/the5439workshop/Bipedal_walking_capture_point). 

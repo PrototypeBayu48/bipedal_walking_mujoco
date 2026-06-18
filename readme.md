@@ -1,13 +1,3 @@
-# Introduction
-
-This is code for the YouTube video on bipeadal walking:
-"How to Make a Robot Walk (No AI, Just Physics)"
-[https://www.youtube.com/watch?v=RXGrTD71FMc](https://www.youtube.com/watch?v=RXGrTD71FMc)
-
-Do not expect this code to be cleanly written or prefectly structured. There is for sure a bunch of spelling mistaces and bad variable naming among other coding crimes. But the code runs and I left it at that.
-
----
-
 ## How to Run
 
 To run the code, simply run one of the files called `capture_point_...` depending on what robot you want to test. I would recomend starting with the `capture_point_2d.py`. If you understand how the minimal 2d version works, the others are simply an extension of the same principles.

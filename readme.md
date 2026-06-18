@@ -1,3 +1,7 @@
+## Credit and Attribution
+
+This project was originally built upon the capture point code in `the5439workshop/Bipedal_walking_capture_point`. 
+
 ## How to Run
 
 To run the code, simply run one of the files called `capture_point_...` depending on what robot you want to test. I would recomend starting with the `capture_point_2d.py`. If you understand how the minimal 2d version works, the others are simply an extension of the same principles.

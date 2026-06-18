@@ -1,4 +1,4 @@
-## Credit and Attribution
+## Acknowledgements
 
 This project was originally built upon the capture point demonstration in [the5439workshop/Bipedal_walking_capture_point](https://github.com/the5439workshop/Bipedal_walking_capture_point). 
 
